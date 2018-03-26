@@ -1,0 +1,5 @@
+This is a test file created to learn the GitHub essentials like:
+1. Repositories
+2. branches
+3. commits
+4. Pull Requests
